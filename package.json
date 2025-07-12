@@ -4,7 +4,6 @@
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "main.js",
     "type": "commonjs",
-    "node": ">=20.0.0",
     "directories": {
         "lib": "lib",
         "database": "database",
